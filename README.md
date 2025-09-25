@@ -1,6 +1,6 @@
 ### Halo, saya Geraldus Citer Teja 👋
 
-Seorang pengembang web dengan fokus pada teknologi MERN Stack. Saya bersemangat membangun aplikasi web yang efisien dan interaktif.
+Seorang Pengembang Web yang bersemangat dalam membangun aplikasi yang efisien, interaktif, dan cerdas. Dengan pengalaman di Front-End dan Back-End, saya juga memiliki minat kuat dalam mengintegrasikan **kecerdasan buatan (AI)** untuk menciptakan fitur-fitur inovatif yang memberikan pengalaman pengguna lebih baik.
 
 ---
 
@@ -22,6 +22,16 @@ Seorang pengembang web dengan fokus pada teknologi MERN Stack. Saya bersemangat 
 
 ---
 
+### AI & Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-4285F4?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-60A5FA?style=flat&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-6e6962?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF5733?style=flat&logo=n8n&logoColor=white)
+
+---
+
 ### Temukan Saya di Sini
 
 <a href="https://www.linkedin.com/in/geraldus-citer-teja-2513aa312/" target="_blank">
@@ -30,14 +40,3 @@ Seorang pengembang web dengan fokus pada teknologi MERN Stack. Saya bersemangat 
 <a href="https://geraldusciterteja.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Website%20Portofolio-1F2A38?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
----
-
-### Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeraldusCiterTeja&show_icons=true&theme=default" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldusCiterTeja&layout=compact&theme=default" />
-</p>
